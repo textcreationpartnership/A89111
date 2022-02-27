@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message sent to the L. Admiral Vantrump from the High and Mighty Lords the States General of the united Provinces, touching hostile acts toward all English ships, whether merchants of others. With the burning and consuming of the state-house and bank of money at Amsterdam, and the firing of a gallant ship in the harbour; and the debates of the states at the Hague, touchin their constituting the young Pr. of Orange, Governor of the United Provinces. Likewise, a full and perfect relation of the late transactions betwixt the two fleets under the command of Sir Geo. Ascue, and Admiral Vantrump upon the Downs; with Vantrumps design to have surprised our ships in the hope; his sailing westward, and his design therein. Also a bloudy fight at sea, and the taking of divers Dutch ships by his excellency General Blake in the Northern seas.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89111</idno>
+            <idno type="STC">Wing M1910</idno>
+            <idno type="STC">Thomason E670_12</idno>
+            <idno type="STC">ESTC R207037</idno>
+            <idno type="EEBO-CITATION">99866112</idno>
+            <idno type="PROQUEST">99866112</idno>
+            <idno type="VID">166225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89111)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166225)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E670[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message sent to the L. Admiral Vantrump from the High and Mighty Lords the States General of the united Provinces, touching hostile acts toward all English ships, whether merchants of others. With the burning and consuming of the state-house and bank of money at Amsterdam, and the firing of a gallant ship in the harbour; and the debates of the states at the Hague, touchin their constituting the young Pr. of Orange, Governor of the United Provinces. Likewise, a full and perfect relation of the late transactions betwixt the two fleets under the command of Sir Geo. Ascue, and Admiral Vantrump upon the Downs; with Vantrumps design to have surprised our ships in the hope; his sailing westward, and his design therein. Also a bloudy fight at sea, and the taking of divers Dutch ships by his excellency General Blake in the Northern seas.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 6 misnumbered 8.</note>
+                  <note>Annotation on Thomason copy: "July: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ayscue, George, --  Sir, fl. 1646-1671.</term>
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Tromp, Maarten Harpertsz., 1598-1653.</term>
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166225:1" rendition="simple:additions"/>
+            <p>A MESSAGE Sent to the L. Admiral Vantrump From the High and Mighty Lords the States Ge<g ref="char:EOLhyphen"/>neral of the united Provinces, touching hoſtile acts toward all Engliſh ſhips, whether Merchants or others.</p>
+            <p>
+               <hi>WITH</hi> The burning and conſuming of the State-houſe and Bank of Money at Amſterdam, and the firing of a gallant ſhip in the Harbour; and the debates of the States at the Hague, touchin their conſtituting the young Pr. of Orange, Governor of the United Provinces.</p>
+            <p>LIKEWISE, A full and perfect relation of the late tranſactions betwixt the two Fleets under the command of Sir Geo. Aſcue, and Admiral Vantru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p upon the Downs; with Van<g ref="char:EOLhyphen"/>trumps Deſign to have ſurpriſed our ſhips in the Hope; His ſailing weſtward, and his deſign therein.</p>
+            <p>Alſo a bloudy Fight at Sea, and the taking of divers Dutch ſhips by his Excellency General Blake in the Northern Seas.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>E. C.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166225:2"/>
+            <pb n="3" facs="tcp:166225:2"/>
+            <head>A MESSAGE Sent to Admiral Vantrump From The High and Mighty Lords the States General of the Vnited Provinces.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe Lord Paw, Embaſſadour extraordinary from the States General of the United Provinces, hath made a large report to his Maſters, touching his Embaſſie to the Common-wealth of England, ſince which he hath ſent a meſſenger to the Parliament to gra<g ref="char:EOLhyphen"/>tifie the reſpects and civilities uſed by them towards him,
+<pb n="4" facs="tcp:166225:3"/>he alſo aſſures them, that in all probability, the States will ſend yet another meſſenger. Upon his report, and a mo<g ref="char:EOLhyphen"/>tion by him made to that purpoſe, the States have ſent a Meſſage to the Lievt. Admiral Vantrump, wherein <hi>They expreſſely charge, require, and forbid him, or any of the Fleet under his command, to meddle with, hinder, or disturb by any hostile act, any Engliſh ſhip whatſoever, not offering injury or affront to them; but to let them paſſe freely without let or molestation, untill they have made their full reſolutions, touching the report made by the Lord Embaſſa<g ref="char:EOLhyphen"/>dour Paw.</hi> So that all hopes of a peace with England is not quite taken away, notwithſtanding the ſtrong endea<g ref="char:EOLhyphen"/>vors of a hot ſpirited party among us, who deſire nothing more then to ſee the two nations imbroyled in a cruel and bloudy war.</p>
+            <p>The people notwithſtanding are arming every where, and every <hi>Stadt</hi> re-inforced both with Cavalry and Infan<g ref="char:EOLhyphen"/>try; even the Hague it ſelf is made a garriſon; and all ſhips fit for ſervice are ſtopt and entertained, although the men have ſmall ſtomacks to engage with your men of war, who they know want not courage to receive and en<g ref="char:EOLhyphen"/>tertain them; many of the Eaſt-India Fleet are rigging and preparing for war, that Company apprehending, that if matters go not according to their expectation, they ſhal be called to an account for the buſineſſe of Amboina: and for the defence of our frontier towns, we have ſent abroad to forraign Princes to aſſiſt us, who will (no doubt) be as ready to ſupply us, as we to deſire their aid, though but to ſerve their own ends.</p>
+            <p>Much ſcuffling there is among the States, for the ma<g ref="char:EOLhyphen"/>king the young Prince of Orange Governour, and very violently hath the motion been followed by all the Pro<g ref="char:EOLhyphen"/>vinces, Holland onely excepted, which ſtrongly appoſeth it: Count William hath been named for Lievt. General;
+<pb n="5" facs="tcp:166225:3"/>but many fear if this motion ſhould take effect, he would introduce forraign forces amongſt us, and ſo betray our liberty, having the D. of Brandenburgh, and the Grave of Embden his brothers. But while theſe things were in deep conſultation at the Hague, the element of fire raged in this City in a double misfortune both on the water and on the land: on the water we had a new ſhip fired, how, or by what means we cannot certainly learn, but this I am ſure of, that if great pains and induſtry had not be<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n uſed for the ſpeedy extinguiſhing thereof, it would <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all li<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>lihood have fired and burnt our fire ſhips, which the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lay near them, but are ſince gone out to our Fleet. To ſe<g ref="char:EOLhyphen"/>cond this, the State-houſe of this City was ſudd<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly fired and burnt down to the ground, we having as little k<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow<g ref="char:EOLhyphen"/>ledge of the author or cauſe of this as of the <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Many there was that cried out Treaſon, Treaſon, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conjecturing it could be nothing elſe, and that <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that envied the glory and riches of that City, <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> on purpo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e out of malice done it; however much they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow to heaven that there was ſo little wind, had the wind been <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igh, the pride of this City had been laid in the duſt. Much o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Bank-money lay in that place; and is melted to the great grief (no doubt) of thoſe that laid it for ſecurity and pro<g ref="char:EOLhyphen"/>fit in that place; generally the people ſtill continue high in their language, and ſeem loth to truſt thoſe Engliſh that ſo faithfully ſerved them againſt the Spaniard, but rather rely upon ſuch forraign auxiliaries, as it is belie<g ref="char:EOLhyphen"/>ved will rather ſeek the way to ruine us, thereby to ad<g ref="char:EOLhyphen"/>vantage themſelves, then endeavour to put a period to our troubles.</p>
+            <closer>
+               <dateline>
+                  <hi>Amsterdam,</hi> 
+                  <date>
+                     <hi>Iuly</hi> 16, <hi>ſtil. novo.</hi> 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:166225:4"/>
+            <head>A Letter f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the Downs, containing a full and perfect Narrative of Admiral Vantrumps facing of Sir George Aſcue with a Fleet of above an hundred Sail.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Received yours of the 12 inſtant, wherein you de<g ref="char:EOLhyphen"/>ſire to be informed touching the tranſactions betwixt our Fleet under Sir George Aſcue, and the Dutch un<g ref="char:EOLhyphen"/>der Vantrump; for your ſatisfaction take this accompt. Some of the Scouts Sir Geo. Aſcue had ſent out, retur<g ref="char:EOLhyphen"/>ned the 8 of this inſtant July, declaring that they had de<g ref="char:EOLhyphen"/>ſcried above 60 ſail of Dutchmen in the Downs, Sir George then riding with part of his Fleet near Deal Ca<g ref="char:EOLhyphen"/>ſtle, the other part was in the Hope, intending towards him. The enemy ſeemed to deſign an interception of that party, and then to fight Sir George. But Sir Geo know<g ref="char:EOLhyphen"/>ing they were not well provided for fight, ſent to them, commanding them to continue there till he ſhould ſend them further Order; and with thoſe he had (being not 20 ſail) he reſolved to fight it out, what ever Fleet ſhould attempt to engage him, and prepared himſelf in the beſt manner he could to receive them, howbeit there was no attempt made upon him that night nor the next day, du<g ref="char:EOLhyphen"/>ring which time he received aboard him 200 foot ſoul<g ref="char:EOLhyphen"/>diers, diſtributing them among his Fleet.</p>
+            <p>On Saturday the Dutch came in ſight, we conceived them to be about an hundred and two Men of War, and ten or twelve fire ſhips; they were divided into 3 ſqua<g ref="char:EOLhyphen"/>drons, viz. 35 ſail with the Admiral on the back of the
+<pb n="7" facs="tcp:166225:4"/>Goodwin; Three leagues Eaſtward of him was another ſquadron conſiſting of 40 ſail, and the third at Longſands-head, which lay in a poſture to intercept our ſhips as aforeſaid, and to keep Sir George from ſteering Weſt<g ref="char:EOLhyphen"/>ward. The next day being Sunday, very early, the intent of the enemy being fruſtrated, thoſe ſhips which were comming forth being returned into the River according to Order, he divided his Fleet into two parts, the greateſt part (conſiſting of about 75 ſail) bore up directly to<g ref="char:EOLhyphen"/>wards Sir George between the Brake head, and North ſands head, whileſt the reſt of the Fleet, being about 35 ſail, lay upon the back of the Goodwin, to intercept Sir George, if their Fire-ſhips ſhould conſtrain him to quit his anchors. But the Tide of Ebb being done, and but lit<g ref="char:EOLhyphen"/>tle wind, the enemy was compelled to anchor about a league diſtant from our Fleet, expecting the opportuni<g ref="char:EOLhyphen"/>ty of the next Tide of Ebb to fall upon Sir George, who knowing that both his Officers, Mariners and Souldiers were filled with courage and reſolution, prepared him<g ref="char:EOLhyphen"/>ſelf for their reception. In the mean time ſix peeces of Ordnance were mounted on two Platforms between tween the Caſtles of Deal and Sandown, which might annoy the enemy if he ſhould engage; The Militia of the Countrey, both horſe and foot, were alſo on their march thitherwards.</p>
+            <p>Whileſt all things were thus diſpoſed, and our ſoul<g ref="char:EOLhyphen"/>diers both Seamen and Landmen, with great chearfulneſs and courage attended the falling on of the enemy, the wind turned, ſo that the Dutch could not come in as they intended, and at Ebb it came to South-weſt, which was very diſadvantageous to the enemy, who finding that pro<g ref="char:EOLhyphen"/>vidence fought againſt them, weighed, and ſtood back a<g ref="char:EOLhyphen"/>gain to the back of the Goodwin about 5 a clock, where meeting altogether, they ſteered away.</p>
+            <pb n="8" facs="tcp:166225:5"/>
+            <p>I cannot omit to tell you, that above two hundred Seamen, to ſhew their good affection and zeal to the Par<g ref="char:EOLhyphen"/>liament, came voluntarily and freely in to aſſiſt our Fleet, there were alſo divers fire-ſhips preparing at Dover, to be made uſe of for entertaining of the Hollanders Navy, had they approached any nearer; They thought to have performed Wonders upon our Fleet here in the abſence of General Blake, but the Lord was pleaſed to diſappoint them, and bring to nought their Counſels.</p>
+            <closer>
+               <dateline>
+                  <hi>From the Downs,</hi> 
+                  <date>
+                     <hi>Iuly</hi> 14. 1652.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>His Excellency Gen. Blake hath been all this while, and is yet Northwards with a very gallant fleet of ſhips, and ſome letters I have ſeen from the North, which ſay, That there hath been a great Fight between a part of General Blakes Fleet, and the Dutch in the Northern ſeas, and that Gen. Blake hath taken divers Dutch ſhips, fiſhermen and others, but no letters are yet come from his navy to con<g ref="char:EOLhyphen"/>firm it. It was conjectured by many that a ſquadron of Vantrumps Fleet ſailed Northwards, but we underſtand ſince that they are all together, and are gone Weſtward, thinking thereby to draw Gen. Blake from the North.</p>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
